@@ -9,3 +9,12 @@
 আজকের মডিউলের ব্যবহৃত রিসোসগুলো নিচের দেয়া হলঃ
 
 https://drive.google.com/drive/folders/1IJukjzMOYrfjfDg_KuY3Zn5VIOTsF2ZI
+
+
+এইখানে Quiz এর প্রতিটি প্রশ্নের ব্যাখ্যা পেয়ে যাবন।
+
+
+
+Quiz Explanation:
+
+https://docs.google.com/document/d/1B15fYLH9PtFvf6vbHcdeLhzQNX9Uh5zBW0NOpofvfCk/edit?usp=sharing
