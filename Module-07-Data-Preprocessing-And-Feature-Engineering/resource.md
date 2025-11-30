@@ -1,0 +1,26 @@
+আজকে আপনারা শুরু করবেন Module 07: Data Preprocessing and Feature Engineering । এই মডিউল দেখে আপনারা Data Preprocessing and Feature Engineering সম্পর্কে ভালো একটি ধারনা পেয়ে যাবেন।
+
+
+
+মডিউলের শেষে একটি Quiz থাকবে, যা দিয়ে আপনারা শেখা বিষয়গুলো যাচাই করতে পারবেন। এরপর থাকবে Quiz Explanation, যেখানে Quiz এর প্রতিটি প্রশ্নের ব্যাখ্যা পেয়ে যাবেন, এবং থাকবে Extra Practice Problems প্র্যাকটিসের জন্য। নিয়মিত কোড প্র্যাকটিস করেন ও মডিউলের সব অংশ সম্পূর্ণ করেন, এতে আপনার দক্ষতা আরও বেড়ে যাবে।
+
+
+
+আজকের মডিউলের ব্যবহৃত রিসোসগুলো নিচের দেয়া হলঃ
+
+https://drive.google.com/drive/folders/1SpbZpiU9qAKEm2HCGpiQP76CKR0kz7pY?usp=sharing
+
+
+এইখানে Quiz এর প্রতিটি প্রশ্নের ব্যাখ্যা পেয়ে যাবেন, এবং আপনাদের প্র্যাকটিসের জন্য Extra Practice Problems হয়েছে সেইগুলো পেয়ে যাবেন।
+
+Quiz Explanation:
+
+https://docs.google.com/document/d/1WtOreywtejORpAXHqcf0KTUIfqXvIxp8VBIvIW3_eug/edit?usp=sharing
+
+
+
+Extra Practice Problem:
+
+https://docs.google.com/document/d/1fSgvyM6229wH4YwMBrgdAPZqisXJD88Xd8ieZLwAH7Y/edit?usp=sharing
+
+
